@@ -1,0 +1,36 @@
+# Python files and directories
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyo
+
+# Virtual environment configuration files
+venv/
+env/
+webenv/
+.venv/
+.env/
+.webenv/
+
+# Jupyter Notebook configuration files
+.ipynb_checkpoints/
+
+# IDE configuration files
+.vscode/
+.idea/
+
+# OS configuration files
+.DS_Store
+Thumbs.db
+
+# Log configuration files
+*.log
+
+# Data configuration files
+data/
+*.csv
+*.json
+*.xlsx
